@@ -1,7 +1,7 @@
 import React from "react";
 import Popular from "./Popular";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Container, InputGroup, Button, Form, Card, Nav, Row, Col} from "react-bootstrap";
+import { Container, InputGroup, Button, Form} from "react-bootstrap";
 
 export default function Main(){
     return(

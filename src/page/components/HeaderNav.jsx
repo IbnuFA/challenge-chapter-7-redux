@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { LinkContainer } from "react-router-bootstrap";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Container, InputGroup, Button, Form, Card, Nav, Navbar} from "react-bootstrap";
+import { Container, InputGroup, Button, Form, Nav, Navbar} from "react-bootstrap";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
