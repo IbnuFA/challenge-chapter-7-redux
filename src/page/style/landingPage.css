@@ -1,0 +1,17 @@
+.header-bg {
+    min-height: 95vh;
+    background: url("../../assets/images/bg-coba.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.detail-header {
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
